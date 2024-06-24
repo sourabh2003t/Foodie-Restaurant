@@ -1,1 +1,1 @@
-A simple landing page - first designed in figma and then coded in React. Hope you like it.
+Foodie is a restaurant landing page for fresh and fast delivery of food. 
